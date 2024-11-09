@@ -13,6 +13,10 @@
 
 </div>
 
+## Overview
+
+This repository holds the project submissions scraped from the [\[REDACTED\] Devpost](https://redacted.devpost.com/) using [Scrapegraph AI FastAPI](https://github.com/elliotBraem/scrapegraph-ai-fastapi).
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
