@@ -1,0 +1,845 @@
+{
+  "projects": [
+    {
+      "name": "Xwiftrx AI",
+      "description": "Navigate Web3 with confidence: our AI safeguards you from scams, streamlines NEAR transactions, and simplifies transactions—all in a single, smart solution.",
+      "link": "https://devpost.com/software/swiftguard-ai"
+    },
+    {
+      "name": "Nearlend DAO",
+      "description": "Abstracted Lending Protocol allows users to deposit digital assets as collateral on one blockchain and borrow against them on another, enabling seamless capital flow and greater financial flexibility.",
+      "link": "https://devpost.com/software/nearlend-dao-f0dsqp"
+    },
+    {
+      "name": "CHATAFISHA",
+      "description": "Infrastructure for Proof of Impact in the form of carbon-backed NFTs",
+      "link": "https://devpost.com/software/chatafisha"
+    },
+    {
+      "name": "SagaHalla",
+      "description": "Welcome to SagaHalla, where ancient myths inspire modern solutions. We’ve building a decentralized cooperative framework to fuel real world projects.",
+      "link": "https://devpost.com/software/sagahalla"
+    },
+    {
+      "name": "TrustyBite",
+      "description": "Transparency you can trust. Our on-site devices capture sensor data and computer vision insights, secured on blockchain to verify cleanliness and food freshness. Trust what you see with TrustyBite.",
+      "link": "https://devpost.com/software/trustybite"
+    },
+    {
+      "name": "Greedy World",
+      "description": "Ecotool, 3rd Generation GameFi, Fighting More Earn, Tokens Battle Royale, you are both the hunter and the hunted. No Pledge, No Mining, No Ponzi.",
+      "link": "https://devpost.com/software/greedy-world"
+    },
+    {
+      "name": "Extending Catalyze.one from the Internet Computer to NEAR",
+      "description": "Catalyze.one is a web3 events & community building platform on the Internet Computer. Our entry is focused on extending Catalyze to NEAR and leveraging Chain Abstraction capabilities.",
+      "link": "https://devpost.com/software/porting-catalyze-one-from-the-internet-computer-to-near"
+    },
+    {
+      "name": "SmartPool.near",
+      "description": "SmartPool.near democratizes AI investing. Pool your capital, let NEAR-powered AI manage funds, and enjoy quick liquidity. Empower everyone to benefit from a user-owned AI investment revolution.",
+      "link": "https://devpost.com/software/255labs-xyz-entry"
+    },
+    {
+      "name": "Gunsmith.Group",
+      "description": "Communication protocol for weapons manufacturers",
+      "link": "https://devpost.com/software/gg-solutions"
+    },
+    {
+      "name": "Thunderhood",
+      "description": "#1 👑 meme marketplace @NEARProtocol -- Build by Traders for Traders",
+      "link": "https://devpost.com/software/thunderhood"
+    },
+    {
+      "name": "Merow CLI",
+      "description": "CLI Wrapper and Node Configuration Tool for the Calimero Network",
+      "link": "https://devpost.com/software/merow-cli"
+    },
+    {
+      "name": "reCEPTION",
+      "description": "Web3.0 reCAPTCHA | From vulnerable smart contracts",
+      "link": "https://devpost.com/software/not-yet-ud294o"
+    },
+    {
+      "name": "yeet finance",
+      "description": "yeet your way to the moon",
+      "link": "https://devpost.com/software/chad-hu5x4s"
+    },
+    {
+      "name": "Dream AI Coder",
+      "description": "Make your blockchain full stack apps with AI dream code , use Near technologies and power of LLM in order to generate projects for your business requirements",
+      "link": "https://devpost.com/software/dream-ai-coder"
+    },
+    {
+      "name": "MusicOnNEAR",
+      "description": "Combining tokenization of art and music with frequent micro-payments using Blockchain we want to enable Content Monetization for Creators, Museums, Libraries, Video platforms, Artists etc.",
+      "link": "https://devpost.com/software/melodyton-h24adq"
+    },
+    {
+      "name": "ColabCube",
+      "description": "Collaborate, Create, Connect",
+      "link": "https://devpost.com/software/colabcube"
+    },
+    {
+      "name": "Zombieland - Survival Game",
+      "description": "Zombieland - Survival Game is classic web3 game with DeFi, NFT and many more in game upgrades and different weapons to survive between zombies.",
+      "link": "https://devpost.com/software/zombieland-survival-game-w2s74p"
+    },
+    {
+      "name": "VoxChain",
+      "description": "VoxChain: Speak to the blockchain. With AI-powered simplicity, just say your command, confirm, and let VoxChain handle the rest. No complex interfaces—just effortless control.",
+      "link": "https://devpost.com/software/voxchain"
+    },
+    {
+      "name": "Scavene",
+      "description": "Enhance your NEAR smart contract security with Scavene, the audit tool that detects vulnerabilities and ensures best practices.",
+      "link": "https://devpost.com/software/scavene"
+    },
+    {
+      "name": "Elemental Game",
+      "description": "Elemental Game is a blockchain-based strategy game leveraging elemental battles and Mana management, with decentralized mechanics, it offers a secure, scalable platform for innovation in gaming",
+      "link": "https://devpost.com/software/elemental-game-nc1h56"
+    },
+    {
+      "name": "Poolarize: Capital-Efficient AMM with Virtual Liquidity",
+      "description": "Poolarize is a AMM protocol enabling efficient token swaps with minimal capital. Using oracle-based USD pricing, it offers price stabilization, automatic arbitrage, and capital-efficient liquidity",
+      "link": "https://devpost.com/software/poolarize-capital-efficient-amm-with-virtual-liquidity"
+    },
+    {
+      "name": "seahorse.",
+      "description": "Combating loneliness and enhancing mental health through an AI-powered wellness engine that provides personalized support and connects users with a real-life community of like-minded individuals.",
+      "link": "https://devpost.com/software/seahorse-social"
+    },
+    {
+      "name": "TradeLayer",
+      "description": "Hyper-decentralized Dex settling on Bitcoin, Litecoin, Dogecoin, based on co-signatures, uses NEAR to automate market making and indicator of interest matching for UTXOs against tokens and derivatives",
+      "link": "https://devpost.com/software/tradelayer"
+    },
+    {
+      "name": "CipherCare",
+      "description": "Where Privacy Meets Patient Care",
+      "link": "https://devpost.com/software/ciphercare-o6isax"
+    },
+    {
+      "name": "validAI",
+      "description": "Introducing a decentralized AI platform powered by EigenLayer AVS and Othentic! Our platform empowers researchers with an AI marketplace with subscription-based royalties, incentivizing ML researchers.",
+      "link": "https://devpost.com/software/validai"
+    },
+    {
+      "name": "Do It!",
+      "description": "Set a Goal, Stick to It! or Pay the Price 💸! Pay with native NEAR, ETH & Dogecoin, powered by NEAR Chain Abstraction!",
+      "link": "https://devpost.com/software/do-it-6wecl1"
+    },
+    {
+      "name": "Near Yield",
+      "description": "Near Yield is a multi-chain AI-powered platform that simplifies DeFi investing. It matches users with top yield opportunities across blockchains, tailored to their risk profile, all from NEAR.",
+      "link": "https://devpost.com/software/near-yield"
+    },
+    {
+      "name": "FlipNear",
+      "description": "FlipNear is an AI-powered platform that makes smart contracts on NEAR Protocol transparent and accessible. We merge GPT-4o analysis with DAO intelligence to help users understand, verify, and safely.",
+      "link": "https://devpost.com/software/loremdimsum"
+    },
+    {
+      "name": "Aurita",
+      "description": "Optimizing Engine for Lending Activities",
+      "link": "https://devpost.com/software/aurita"
+    },
+    {
+      "name": "Open Agents",
+      "description": "Our project empowers creators with decentralized AI and blockchain tools to earn directly from users, promoting community-owned AI and fostering a fair, creator-driven ecosystem.",
+      "link": "https://devpost.com/software/open-agents"
+    },
+    {
+      "name": "SIGHTED (Secure Medical Records Sharing)",
+      "description": "SIGHTED (Secure Information Guarding Healthcare Through Encrypted Data) enables the secure and private sharing of medical records between patients and healthcare providers.",
+      "link": "https://devpost.com/software/near-sighted"
+    },
+    {
+      "name": "GFXvs",
+      "description": "Art Battles on Blockchain: Compete, Earn Rewards, and Power Creative Campaigns!",
+      "link": "https://devpost.com/software/gfxvs"
+    },
+    {
+      "name": "Partage Car-Sharing",
+      "description": "Get paid to share your underused car! or Build yourself a yield with a low-risk investment into a shared car business.",
+      "link": "https://devpost.com/software/partage-car-sharing"
+    },
+    {
+      "name": "BuckyFinance",
+      "description": "An innovative Cross-chain Lending Protocol integrating AI in credit system with Optimized Liquidation Engine",
+      "link": "https://devpost.com/software/buckyfinance"
+    },
+    {
+      "name": "StoreHub",
+      "description": "StoreHub: Launch Your AI-Powered Online Store in One Click, with Blockchain-Security",
+      "link": "https://devpost.com/software/storehub"
+    },
+    {
+      "name": "Voxelworld",
+      "description": "Fully on-chain sandbox MMORPG. Players quest, craft, interact, and earn through permissionless modding.",
+      "link": "https://devpost.com/software/voxelverses-ws2q0b"
+    },
+    {
+      "name": "io.Side",
+      "description": "A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.",
+      "link": "https://devpost.com/software/not-yet-lhnw4d"
+    },
+    {
+      "name": "Nearstack",
+      "description": "Our project supports the development of NEAR BOS components, enhanced by AI-generated code suggestions. It features a canvas-based UI that allows users to visualize component relationships.",
+      "link": "https://devpost.com/software/nearstack"
+    },
+    {
+      "name": "redacted explorer",
+      "description": "Block explorer with realtime updates and fast buys (using a built-in near wallet). The wallet has no seed phrase, it connects to your sol / evm / near wallet.",
+      "link": "https://devpost.com/software/redacted-explorer"
+    },
+    {
+      "name": "Votacle",
+      "description": "Votacle, an onchain voting app that empowers secure, transparent elections. It leverages nillion's blind computing and shows current election news using masa ai. Your decision, encrypted for eternity!",
+      "link": "https://devpost.com/software/votacle"
+    },
+    {
+      "name": "Bunsan",
+      "description": "Bunsan (分散, meaning \"distributed\" in Japanese) is a cutting-edge RPC load balancer with support for NEAR Chain Abstraction, built for the modern Web3 infrastructure.",
+      "link": "https://devpost.com/software/bunsan"
+    },
+    {
+      "name": "BrownFi AMM",
+      "description": "High capital efficiency, simple LP management & arbitrage resistance.",
+      "link": "https://devpost.com/software/brownfi-amm"
+    },
+    {
+      "name": "Web3 Content Hub",
+      "description": "AI to help you quickly create personalized social media posts for the crypto, Web3, and blockchain space, making it easier to stay engaged and relevant online.",
+      "link": "https://devpost.com/software/web3-content-hub"
+    },
+    {
+      "name": "Neton",
+      "description": "Make Near a new settlement layer for Telegram MiniApp ecosystem.",
+      "link": "https://devpost.com/software/neton"
+    },
+    {
+      "name": "NexusNGO",
+      "description": "Connecting Donors and NGOs Seamlessly with Transparency and Trust.",
+      "link": "https://devpost.com/software/nexusngo-jhb6qf"
+    },
+    {
+      "name": "Just One Giant Lab",
+      "description": "Collaboration and decision-making platform for open source builders and scientists. We want to make a decentralized OpenAI possible by enabling open source collaboration at scale.",
+      "link": "https://devpost.com/software/just-one-giant-lab"
+    },
+    {
+      "name": "☘︎ Project Klean ☘︎",
+      "description": "An enterprise solution to digital pollution via project optimization.",
+      "link": "https://devpost.com/software/project-klean"
+    },
+    {
+      "name": "A sovereign [REDACTED] Rfp agent",
+      "description": "Effortless RFP creation and proposal submission with Bitte's AI-driven RFP agent, streamlining workflows for DevHub, the Infrastructure and Events Committees, and AI-PGF.",
+      "link": "https://devpost.com/software/devhub-s-proposal-log-and-invoice-agent"
+    },
+    {
+      "name": "CURA smart pet collar",
+      "description": "CURA is the first DePIN + Edge AI smart pet collar that rewards users for spending time with their pets.",
+      "link": "https://devpost.com/software/cura-smart-pet-collar-koxlv8"
+    },
+    {
+      "name": "XFY",
+      "description": "We are revolutionizing banking by tokenizing bank assets, deposit, debt, and investments. We bridge traditional finance with blockchain, offering faster, secure, and transparent financial services.",
+      "link": "https://devpost.com/software/xfy-yc3a19"
+    },
+    {
+      "name": "QSTN",
+      "description": "QSTN is an AI-powered survey marketplace that allows businesses to fund surveys using NEAR tokens and NEAR NFTs, rewarding participants for their feedback and opinions.",
+      "link": "https://devpost.com/software/qstn-3muql1"
+    },
+    {
+      "name": "Energy Marketplace",
+      "description": "Energy Marketplace aims to create a decentralized platform for trading alternative energy resources. The marketplace will enable users to buy, sell, and exchange energy assets directly with eachother.",
+      "link": "https://devpost.com/software/energy-marketplace"
+    },
+    {
+      "name": "Brainwave Market Place",
+      "description": "The Brainwave Data Marketplace offers a blockchain-based platform for sharing and monetizing tokenized brainwave data, rewarding contributors each time researchers or developers access their data.",
+      "link": "https://devpost.com/software/brainwave-market-place"
+    },
+    {
+      "name": "JSinRust+NearOpenAI",
+      "description": "Initiated by a tweet challenge in 2022 for combining Rust and Javascript layer for customising smart contracts. How to take this further and combine with OpenAI APIs.",
+      "link": "https://devpost.com/software/jsinrust-nearopenai"
+    },
+    {
+      "name": "Moraq Gaming",
+      "description": "Moraq gaming : An AI-driven prediction game that redefines asset betting in the Web3 space, offering dynamic insights through Ai for strategic betting , flexible payment options via loan offerings.",
+      "link": "https://devpost.com/software/moraq-leagues"
+    },
+    {
+      "name": "EduMorph",
+      "description": "Transforming learning with dynamic NFTs that grow with you.",
+      "link": "https://devpost.com/software/edumorph"
+    },
+    {
+      "name": "TaskGenius",
+      "description": "AI-Powered Task Automation for Smarter Workflows.",
+      "link": "https://devpost.com/software/taskgenius"
+    },
+    {
+      "name": "Arina",
+      "description": "A simple smart contract that allows users to compete in small private settings for money. i.e, two friends playing FIFA against eachother can put up 5$ each, with the winner taking the full 10$.",
+      "link": "https://devpost.com/software/arina-ai0tds"
+    },
+    {
+      "name": "Doppelgangers AI",
+      "description": "Doppelgangers.ai lets users create digital AI twin by using their data from messengers, emails & social media with ability to tokenize and share twin's personality traits on the Aurora blockchain.",
+      "link": "https://devpost.com/software/doppelgangers-ai"
+    },
+    {
+      "name": "Stratum",
+      "description": "Proof of Work token on Near that can be minted by anyone from anywhere without needing extensive technical knowledge or equipment.",
+      "link": "https://devpost.com/software/stratum"
+    },
+    {
+      "name": "Motu Pop Bubble Shooter Game",
+      "description": "Pop bubbles, rescue motu's chhotu, and blast through fun puzzles in this thrilling bubble shooter adventure! Compete, earn, and enjoy a vibrant world of challenges!",
+      "link": "https://devpost.com/software/motu-pop-bubble-shooter-game"
+    },
+    {
+      "name": "AI Powered 3D Virtual Trial On",
+      "description": "3D Virtual Try On project, world’s fastest human model maker, enhances online shopping by reducing returns, boosting customer confidence, offering personalized fits, and supporting sustainability.",
+      "link": "https://devpost.com/software/ai-powered-3d-virtual-trial-on"
+    },
+    {
+      "name": "EarthMind Protocol",
+      "description": "EarthMind is a protocol for decentralized governance using advanced AI and Blockchain technology to streamline governance decisions for any protocol implementing the EarthMind client contract.",
+      "link": "https://devpost.com/software/earthmind-protocol"
+    },
+    {
+      "name": "TRADE RUN",
+      "description": "Decentralized Futures and Perpetual exchange platform using completely Goverence system.",
+      "link": "https://devpost.com/software/trade-run-lxcm6h"
+    },
+    {
+      "name": "CrossLend",
+      "description": "CrossLend is a decentralized private lending platform that allows users to use their Bitcoin as collateral to borrow stablecoins on various chains, all managed through a single NEAR account.",
+      "link": "https://devpost.com/software/crosslend"
+    },
+    {
+      "name": "everything",
+      "description": "use ai to create types and things in your private, decentralized, personal inventory.",
+      "link": "https://devpost.com/software/everything-tioe0k"
+    },
+    {
+      "name": "PotLock Project Genie",
+      "description": "Meet the PotLock Project Genie! Effortlessly create and get information about PotLock projects through a friendly chat interface, revolutionizing public goods funding on Near.",
+      "link": "https://devpost.com/software/potlock-project-genie"
+    },
+    {
+      "name": "mystartup",
+      "description": "The all-in-one platform for startups and investors to bring your business from an Idea to a pitch-ready project.",
+      "link": "https://devpost.com/software/mystartup"
+    },
+    {
+      "name": "betVEX",
+      "description": "betVEX - Community Powered Esports Betting Application. Users are a part of the platform, stakers of $VEX are distributed rewards from the betting contract. Easy onboarding + good odds (low overhead).",
+      "link": "https://devpost.com/software/betvex"
+    },
+    {
+      "name": "NEARer",
+      "description": "“All in one AI assistant with chain signatures.”",
+      "link": "https://devpost.com/software/nearer"
+    },
+    {
+      "name": "PreStake",
+      "description": "PreStake is your risk-free gateway to NEAR Protocol staking. Practice and perfect your staking strategies with real-time simulation, live reward tracking, and zero financial risk.",
+      "link": "https://devpost.com/software/prestake-your-near-staking-playground"
+    },
+    {
+      "name": "AI Quiz",
+      "description": "A Web3 trivia game powered by OpenAI and built on Aurora Testnet. Answer dynamic questions, earn tokens, and unlock NFTs—all while enjoying a fun and fair quiz experience!",
+      "link": "https://devpost.com/software/ai-quiz-mania"
+    },
+    {
+      "name": "Cross AI Yield Maximizer",
+      "description": "Cross-AI Yield Maximizer: An AI-driven DeFi platform that helps users maximize their yield farming returns across multiple blockchains with real-time, risk-adjusted investment recommendations.",
+      "link": "https://devpost.com/software/cross-ai-yield-maximizer"
+    },
+    {
+      "name": "Wallet Miner v1",
+      "description": "WEB3 POW vs POS # T.C.P",
+      "link": "https://devpost.com/software/mad-max"
+    },
+    {
+      "name": "Traverse",
+      "description": "AI & Blockchain for Media Analysis",
+      "link": "https://devpost.com/software/project-27"
+    },
+    {
+      "name": "Near Multichain Hub",
+      "description": "Seamless Multi-Chain Interaction with a Single NEAR Account",
+      "link": "https://devpost.com/software/near-multichain-hub"
+    },
+    {
+      "name": "Xythum Labs AKA Ozone protocol",
+      "description": "WORLDS FIRST TRUSTLESS TRULY DECENTRALIZED AGGREGATION LAYER, at xythum we are building a interoperable service which is fast n cheap, secure (darkpool based), decentralized, multi chain.",
+      "link": "https://devpost.com/software/xythum-labs"
+    },
+    {
+      "name": "Monetizado",
+      "description": "On-chain pay-per-view platform",
+      "link": "https://devpost.com/software/monetizado"
+    },
+    {
+      "name": "ChatBot",
+      "description": "AI Able to reply all the question",
+      "link": "https://devpost.com/software/chatbot-kst4pn"
+    },
+    {
+      "name": "CRTIMK",
+      "description": "CRTIMK – A decentralized, serverless platform that empowers users to rent out their devices for Web3 computation. Run any code, anywhere, with unparalleled flexibility and accessibility.",
+      "link": "https://devpost.com/software/crtimk"
+    },
+    {
+      "name": "Nexus",
+      "description": "A limitless digital canvas where every drawing you create is instantly yours to own. Draw, click, and own - protecting creators from copycats with automatic proof of ownership.",
+      "link": "https://devpost.com/software/nexus-1bpcil"
+    },
+    {
+      "name": "MetaSDK",
+      "description": "building an sdk that enables easy use and restriction of the metatransactions.",
+      "link": "https://devpost.com/software/metasdk"
+    },
+    {
+      "name": "MedModx",
+      "description": "Empowering health through personalized counseling and preventive care with a decentralized approach. MedMod transforms health management into a seamless, secure experience.",
+      "link": "https://devpost.com/software/medmodx"
+    },
+    {
+      "name": "NearFT",
+      "description": "Transform your creativity into unique NFTs with NEARFT—where custom design patterns meet blockchain innovation!",
+      "link": "https://devpost.com/software/nearft-fznl9g"
+    },
+    {
+      "name": "GoNearFrace",
+      "description": "Empowering Projects, Amplifying Connections, Fueling Crowdfunding Success with a Social Touch!",
+      "link": "https://devpost.com/software/gonearfrace"
+    },
+    {
+      "name": "Kitai-Near",
+      "description": "An AI story and comics generator using Web3 and NEAR to power the generation of comics. OpenAI for story generation and iteration, and Stability Diffusion to generate comic pages.",
+      "link": "https://devpost.com/software/kitai-near"
+    },
+    {
+      "name": "RenFTs",
+      "description": "A step closer to your NFTs: Buying and selling made possible on Twitter.",
+      "link": "https://devpost.com/software/renfts"
+    },
+    {
+      "name": "CrossChain AI Nexus",
+      "description": "Unlock the power of AI across blockchains with CrossChain AI Nexus. Seamlessly automate governance and enhance collaboration in a decentralized world!",
+      "link": "https://devpost.com/software/crosschain-ai-nexus"
+    },
+    {
+      "name": "IDE for Near Stylus & Code Verification API",
+      "description": "Remix IDE Plugin for Near Chain and Code Verification API for EVM+ Compatibility via Stylus.",
+      "link": "https://devpost.com/software/ide-for-near-stylus-code-verification-api"
+    },
+    {
+      "name": "GrowNear",
+      "description": "To revolutionize professional credentialing using AI and blockchain for enhanced transparency and trust. We empower individuals to effortlessly showcase verified skills in the job market.",
+      "link": "https://devpost.com/software/grownear"
+    },
+    {
+      "name": "MystiChain: An Interactive NFT Adventure",
+      "description": "To create an immersive and collaborative storytelling experience through NFTs, empowering communities to contribute and share their narratives.",
+      "link": "https://devpost.com/software/mystichain-an-interactive-nft-adventure"
+    },
+    {
+      "name": "EduLend: Empowering Students with Decentralized Loans",
+      "description": "To empower students with decentralized loans, making education accessible through blockchain, while offering investors opportunities to support innovation and earn returns.",
+      "link": "https://devpost.com/software/edulend-empowering-students-with-decentralized-loans"
+    },
+    {
+      "name": "Elementa",
+      "description": "A NEAR-Powered Strategy Game of Elements.",
+      "link": "https://devpost.com/software/elementa-nbsi7w"
+    },
+    {
+      "name": "MedSecure: Revolutionizing Medical Data Sharing on NEAR",
+      "description": "MedChain aims to revolutionize medical data sharing by providing a secure, decentralized platform that enhances privacy and efficiency while reducing human error in healthcare.",
+      "link": "https://devpost.com/software/medsecure-revolutionizing-medical-data-sharing-on-near"
+    },
+    {
+      "name": "Lizard Legends: A P2E Adventure with Gecko NFTs",
+      "description": "Lizard Legends envisions a dynamic gaming ecosystem where players enjoy thrilling gameplay while owning unique digital assets that hold tangible value.",
+      "link": "https://devpost.com/software/lizard-legends-a-p2e-adventure-with-gecko-nfts"
+    },
+    {
+      "name": "Data Exchange Hub: A Decentralized Mobile Data Marketplace",
+      "description": "Empower individuals to control and trade their mobile data in a decentralized marketplace, promoting transparency and resource optimization.",
+      "link": "https://devpost.com/software/data-exchange-hub-a-decentralized-mobile-data-marketplace"
+    },
+    {
+      "name": "CrossFigod",
+      "description": "Envision a seamless and user-centric decentralized exchange experience that empowers users to effortlessly trade assets across multiple blockchains while benefiting from advanced financial services.",
+      "link": "https://devpost.com/software/crossfigod"
+    },
+    {
+      "name": "Wordle BlindApp",
+      "description": "A Wordle Blind App Game",
+      "link": "https://devpost.com/software/wordle-blindapp"
+    },
+    {
+      "name": "NFT-Based Ticketing System Presentation",
+      "description": "Revolutionizing Ticketing with NFTs – Secure, Transparent, and Scalable",
+      "link": "https://devpost.com/software/nft-based-ticketing-system-presentation"
+    },
+    {
+      "name": "BlockPass",
+      "description": "Unlock the Future of Events, One Ticket at a Time",
+      "link": "https://devpost.com/software/blockpass-eutcp3"
+    },
+    {
+      "name": "Nexus",
+      "description": "Community-trained (and owned) AI agents on NEAR and Calimero",
+      "link": "https://devpost.com/software/nexus-myr5p3"
+    },
+    {
+      "name": "NEAR River",
+      "description": "Quickly launch a custom indexer on Substreams with API and AI-powered querying. A fast, stable, and scalable solution for effortless access to real-time and historical data from the NEAR blockchain!",
+      "link": "https://devpost.com/software/near-river"
+    },
+    {
+      "name": "Generative Op",
+      "description": "Your Generative AI Workspace - Explore, create, and manage AI-driven workflows tailored to your specific business needs.",
+      "link": "https://devpost.com/software/generative-op"
+    },
+    {
+      "name": "Neargigs",
+      "description": "A decentralized freelance marketplace on NEAR, offering low fees, transparent operations, and secure payments, empowering freelancers and clients to connect directly with community-driven governance.",
+      "link": "https://devpost.com/software/neargigs"
+    },
+    {
+      "name": "Icebreak",
+      "description": "Reward Replying. User a private encrypted P2P messenger to send people reply incentives. If they answer you, they receive the reward! Now enhanced with Calimero Network privacy.",
+      "link": "https://devpost.com/software/icebreak-cdyes0"
+    },
+    {
+      "name": "Nearmed",
+      "description": "Revolutionizing healthcare with near blockchan.",
+      "link": "https://devpost.com/software/nearmed"
+    },
+    {
+      "name": "Nostra",
+      "description": "Nostra, an AI agent on NEAR, drives a new paradigm in CoT-based trading. It trades on Ref Finance, shares insights on NEAR Social, and securely stores agent data on NEAR.",
+      "link": "https://devpost.com/software/nostra"
+    },
+    {
+      "name": "GoGreenChain",
+      "description": "GoGreenChain links eco-conscious businesses with users for local environmental tasks, rewarding them through Near Wallet to drive collective action for the planet.",
+      "link": "https://devpost.com/software/gogreenchain"
+    },
+    {
+      "name": "Metaschool AI",
+      "description": "Metaschool AI is a multi-modal retrieval system using AI to index educational content, including textbooks, videos, and assessments to deliver tailored learning experiences for K12 students in Africa.",
+      "link": "https://devpost.com/software/metaschool-ai-ta38mw"
+    },
+    {
+      "name": "PopCoin",
+      "description": "🎉Memecoin launchpad and instant trading platform",
+      "link": "https://devpost.com/software/popcoin"
+    },
+    {
+      "name": "MultiChain Near AI Agent",
+      "description": "A powerful AI-powered agent built using Bitte.ai that enables seamless cross-chain transactions and wallet management across Bitcoin and EVM chains straight from your NEAR wallet.",
+      "link": "https://devpost.com/software/multichain-near-ai-agent"
+    },
+    {
+      "name": "TicketBlock",
+      "description": "NFT Events Ticketing platform on the Aurora Blockchain",
+      "link": "https://devpost.com/software/ticketblock-9imwqc"
+    },
+    {
+      "name": "Block Elf",
+      "description": "On-chain LLM Search Engine",
+      "link": "https://devpost.com/software/block-elf"
+    },
+    {
+      "name": "Near Go",
+      "description": "Pokemon Go but with actual animals to crowdsource the $2.1B problem of wildlife tracking powered by Near!",
+      "link": "https://devpost.com/software/near-go"
+    },
+    {
+      "name": "Gojo",
+      "description": "No code solution for 'ANYONE' to build a web3 prototype in less than 10 minutes",
+      "link": "https://devpost.com/software/gojo"
+    },
+    {
+      "name": "Near FileSystem",
+      "description": "A collaborative filesystem to help design the next generation library.",
+      "link": "https://devpost.com/software/near-filesystem"
+    },
+    {
+      "name": "ExpressWage",
+      "description": "Real-time, flexible payroll on NEAR.",
+      "link": "https://devpost.com/software/expresswage"
+    },
+    {
+      "name": "bugbaunty",
+      "description": "Bugbaunty is a platform that provides out-of-the-box solutions to issues in codebases and also enables teams to outsource the implementation of certain features by placing bounties on these tasks.",
+      "link": "https://devpost.com/software/bugbaunty"
+    },
+    {
+      "name": "Ludium",
+      "description": "Web3 Builder Matching System",
+      "link": "https://devpost.com/software/ludium-web3-career-pathfinder"
+    },
+    {
+      "name": "Near-dapp-review",
+      "description": "Near-Dapp-Review is a decentralized feedback platform on the NEAR blockchain, empowering users to rate dApps and businesses, fostering trust and transparency across the blockchain ecosystem.",
+      "link": "https://devpost.com/software/near-dapp-review"
+    },
+    {
+      "name": "DCA / Crypto Current News",
+      "description": "AI market analysis podcasts with automated investing on based NEAR Protocol. Get daily audio insights while your trades execute to your strategy. making crypto investing intelligent and accessible.",
+      "link": "https://devpost.com/software/crypto-current-news"
+    },
+    {
+      "name": "SOuL",
+      "description": "Tokenized forest internet-of-things DePIN on Solana",
+      "link": "https://devpost.com/software/soul-wolges"
+    },
+    {
+      "name": "Direct Transfer",
+      "description": "Direct Transfer makes sending USDC from Near to Ethereum simple. Instead of complex bridging processes, we use Chain Signatures to transfer your USDC straight to any Ethereum address.",
+      "link": "https://devpost.com/software/direct-transfer"
+    },
+    {
+      "name": "Vuln_Scan",
+      "description": "Scanning Application Vulnerabilities in Windows",
+      "link": "https://devpost.com/software/vuln_scan"
+    },
+    {
+      "name": "Bet-connect",
+      "description": "Bet-Connect is a DeFi dApp on NEAR for social betting. Users create custom bets, control terms and outcomes, and rely on secure smart contracts to hold funds in escrow until a winner is chosen.",
+      "link": "https://devpost.com/software/bet-connect"
+    },
+    {
+      "name": "ProtectedPay",
+      "description": "Secure crypto transfers on Near blockchain (Aurora)",
+      "link": "https://devpost.com/software/protectedpay"
+    },
+    {
+      "name": "Genix Era",
+      "description": "Genix Era is a blockchain-powered social platform where creators truly own content, earn crypto rewards, and mint posts as NFTs. Create, grow, earn, and own—join the future of empowered social media.",
+      "link": "https://devpost.com/software/genix-era"
+    },
+    {
+      "name": "RED Flight",
+      "description": "NFT games using various LLM jailbreaking techniques + Prompt Data Market + Unity Game (Web, Meta Quest, Steam Game) + LLM Jailbreaking Discord (BASI) + AI Security & Safety Startup (AIM Intelligence)",
+      "link": "https://devpost.com/software/red-flight"
+    },
+    {
+      "name": "Flare0x_bot",
+      "description": "FLARE0x_Bot is all about powering up focus and productivity in a fun, rewarding way. It’s your personal Telegram mini-app for focus build with Hot Wallet and Wallet-Select SDK.",
+      "link": "https://devpost.com/software/flare0x_bot"
+    },
+    {
+      "name": "NeuraNFT",
+      "description": "NeuraNFT: Tokenizing intelligence and empowering individuals with personalized, secure AI through blockchain-based ownership.",
+      "link": "https://devpost.com/software/neuranft-07w9uy"
+    },
+    {
+      "name": "2PM.Network",
+      "description": "#AI #Blockchain",
+      "link": "https://devpost.com/software/2pm-network-y3su5m"
+    },
+    {
+      "name": "Dialexa Ai",
+      "description": "Dialexa AI is an AI-powered call support solution using Near blockchain for secure, transparent, and scalable interactions, helping businesses deliver smarter, seamless customer service.",
+      "link": "https://devpost.com/software/dialexa-ai"
+    },
+    {
+      "name": "LeoFi",
+      "description": "LeoFi - Decentralized Staking Assistant",
+      "link": "https://devpost.com/software/leofi"
+    },
+    {
+      "name": "Zarpay",
+      "description": "ZarPay is a crypto payment gateway and processor that allows you to accept payment in your favorite cryptocurrencies. Just like Stripe and PayPal, but for crypto!",
+      "link": "https://devpost.com/software/zarpay"
+    },
+    {
+      "name": "FusionFund",
+      "description": "DeFi and crowdfunding directly on Telegram: Easily raise funds, lend, or borrow with AI support, secure wallet integration, and privacy—no app downloads or wallet setup needed. All on NEAR blockchain!",
+      "link": "https://devpost.com/software/fusionfund"
+    },
+    {
+      "name": "SuperNear | AI-powered Blockchain Interface",
+      "description": "Use natural language to interact with Near Blockchain in an easy, user-friendly, expandable way.",
+      "link": "https://devpost.com/software/supernear-ai-powered-blockchain-interface"
+    },
+    {
+      "name": "Project and Proposal Gateway Agent",
+      "description": "API for creating and managing projects and proposals, you can generate a proposal and post it on devhub, events or infrastructure portal or create a project and add it to the near catalog.",
+      "link": "https://devpost.com/software/project-and-proposal-gateway-agent"
+    },
+    {
+      "name": "NearOracle AI",
+      "description": "An AI-powered chatbot delivering intelligent responses and real-time on-chain data for the Near community. Keep informed and engaged with seamless conversation & blockchain insights, all in one place.",
+      "link": "https://devpost.com/software/nearoracle-ai"
+    },
+    {
+      "name": "ReputeNet - Decentralized AI-Powered Reputation System",
+      "description": "ReputeNet is an AI-driven reputation system for Web3, creating tamper-proof scores from on-chain actions. It empowers users and platforms with trust and accountability in decentralized networks.",
+      "link": "https://devpost.com/software/reputenet-decentralized-ai-powered-reputation-system"
+    },
+    {
+      "name": "BlockTalk",
+      "description": "An Ethereum chat Dapp, leveraging E2E encryption and smart contracts for secure, tamper-proof communication. Built to ensure privacy through on-chain message storage, eliminating third-party access.",
+      "link": "https://devpost.com/software/blocktalk-s6nefu"
+    },
+    {
+      "name": "BlueSense",
+      "description": "We Detect quality, we protect life.",
+      "link": "https://devpost.com/software/bluesense"
+    },
+    {
+      "name": "ZkResolution",
+      "description": "Securing DNS resolution through zero-knowledge geometry - where privacy meets proximity. Leveraging Telemetry tools in web2 with tokenized domains and verifying them using zkproofs",
+      "link": "https://devpost.com/software/zkresolution"
+    },
+    {
+      "name": "ORCA",
+      "description": "Train AI models at 1/10th the cost using our blockchain-powered network of distributed GPUs. Earn tokens by sharing computing power, or build your AI cheaper and faster.",
+      "link": "https://devpost.com/software/orca-hp36rc"
+    },
+    {
+      "name": "Sports Betting Agent",
+      "description": "Do you feel bad about mindlessly gamble your money? Why not convince yourself you are making better decisions to gamble using AI and the blockchain.",
+      "link": "https://devpost.com/software/sports-betting-agent"
+    },
+    {
+      "name": "NearNDear",
+      "description": "Don’t let big tech capitalize on your hard work —take full control of your custom AI creations, keeping it near and dear.",
+      "link": "https://devpost.com/software/nearndear"
+    },
+    {
+      "name": "Night's Watcher",
+      "description": "Night's Watcher is an innovative blockchain security monitoring tool designed to provide users with comprehensive risk identification and alerts through a combination of AI and formal verification.",
+      "link": "https://devpost.com/software/night-s-watcher"
+    },
+    {
+      "name": "Transparent NFTs",
+      "description": "A multi-chain interface explorer, to make NFTs available to people with disabilities.",
+      "link": "https://devpost.com/software/transparent-nfts-r4k9a6"
+    },
+    {
+      "name": "Raigotchi",
+      "description": "RaiGotchi is the ultimate virtual pet game for nostalgia lovers and tech-savvy gamers alike! It blends the classic charm of Tamagotchi with cutting-edge technologies such as Dynamic NFTs and DeFi.",
+      "link": "https://devpost.com/software/raigotchi"
+    },
+    {
+      "name": "skillsync.ai",
+      "description": "A full stack one stop platform for your complete career path.",
+      "link": "https://devpost.com/software/skillsync-ai-hn5bys"
+    },
+    {
+      "name": "DonaChain x Near",
+      "description": "\"Each Donation, a Visible Impact\".",
+      "link": "https://devpost.com/software/donachain-r43kc5"
+    },
+    {
+      "name": "BuildLink",
+      "description": "Buildlink simplifies blockchain interactions using AI, making swapping and staking intuitive for users without technical knowledge on the NEAR blockchain. Join us for an easier blockchain experience!",
+      "link": "https://devpost.com/software/buildlink"
+    },
+    {
+      "name": "NearGami",
+      "description": "Your Gateway to Blockchain Mastery. Learn, Earn, and build your city in a Fun and Engaging Gamified Way. Powered by NEAR Protocol, NearGami is revolutionizing education with blockchain technology.",
+      "link": "https://devpost.com/software/neargami"
+    },
+    {
+      "name": "Nillion Financial Health Calculator",
+      "description": "A privacy-preserving financial assessment system powered by Nillion's secure computation technology.",
+      "link": "https://devpost.com/software/nillion-financial-health-calculator"
+    },
+    {
+      "name": "neargpt-ai-tools",
+      "description": "NearGPT AI Dev Tools is a powerful toolkit designed to streamline the development process on the NEAR blockchain.",
+      "link": "https://devpost.com/software/neargpt-ai-tools"
+    },
+    {
+      "name": "Nebula Mint",
+      "description": "Nebulamint empowers authors to distribute and monetize books through NFTs, offering ownership, resale, and new revenue streams with limited-edition digital copies.",
+      "link": "https://devpost.com/software/nebula-mint"
+    },
+    {
+      "name": "NearBtcForge",
+      "description": "Bridging assets between Ethereum and Bitcoin, powered by NEAR Protocol.",
+      "link": "https://devpost.com/software/nearbtcforge"
+    },
+    {
+      "name": "Omnibets",
+      "description": "Protocol designed to create a decentralized betting and hedging environment that spans across different EVM-compatible chains. Uses Chain Signatures to control ERC-4626 vaults across many chains.",
+      "link": "https://devpost.com/software/omnibets"
+    },
+    {
+      "name": "NEAR Profile Builder",
+      "description": "An fast and easy way to setup your NEAR profile.",
+      "link": "https://devpost.com/software/near-profile-builder"
+    },
+    {
+      "name": "Bountrip: Let the crowd find the best plan for your trip",
+      "description": "Plan awesome trips with Bountrip! Connect with seasoned travelers for custom itineraries, powered by NEAR for secure rewards. Trustworthy advice, instant payments, and unique travel insights await!",
+      "link": "https://devpost.com/software/bountrip-let-the-crowd-find-the-best-plan-for-your-trip"
+    },
+    {
+      "name": "Tizzle AI",
+      "description": "Transforming Digital Interaction with Personalized AI Agents on Web3 – Engage, Learn, and Explore the Future with Tizzle.",
+      "link": "https://devpost.com/software/tizzle-ai"
+    },
+    {
+      "name": "Beat Steam",
+      "description": "Stream your songs on live.",
+      "link": "https://devpost.com/software/beat-steam"
+    },
+    {
+      "name": "ne(ar)-yo",
+      "description": "Bring NFC contactless payments to the world of blockchain.",
+      "link": "https://devpost.com/software/ne-ar-yo"
+    },
+    {
+      "name": "Walllet Analyzer",
+      "description": "Identify trending tokens and top holders of near-protocols, analyze transaction activity, and quickly use interactive AI to inform your trading strategy. This works with the Bitte.AI plugin.",
+      "link": "https://devpost.com/software/walllet-analyzer"
+    },
+    {
+      "name": "Thesus",
+      "description": "Seamlessly integrate AI computation in NEAR smart contracts with Thesus – the AI oracle powered by community nodes.",
+      "link": "https://devpost.com/software/thesus"
+    },
+    {
+      "name": "SatStation",
+      "description": "SatStation is the fastest and programmable launchpad for fungible tokens on Bitcoin. Using Runes standard and decentralized MPC from NEAR to reduce time to mint from 10+ minutes to 5 seconds.",
+      "link": "https://devpost.com/software/satstation"
+    },
+    {
+      "name": "AURORA Burger Rush Game",
+      "description": "AURORA Burger Rush is a blockchain-powered game where players build burger shops, serve customers, and earn rewards. Combine DeFi mechanics with fun gameplay to create your own burger empire!",
+      "link": "https://devpost.com/software/aurora-burger-rush-game"
+    },
+    {
+      "name": "Zombie Hunter Blockchain Game On Aurora",
+      "description": "Zombie Hunter is an exciting blockchain game on Aurora where players battle relentless zombies and use ETH to buy coins for upgrades, enhancing their survival strategies in a thrilling adventure!",
+      "link": "https://devpost.com/software/zombie-hunter-blockchain-game-on-aurora"
+    },
+    {
+      "name": "Local Marketplace for farmer",
+      "description": "Decentralized marketplace where local farmers may purchase or sell goods in a decentralized manner.",
+      "link": "https://devpost.com/software/local-marketplace-for-farmer"
+    }
+  ]
+}
+
